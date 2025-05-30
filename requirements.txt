@@ -1,6 +1,5 @@
 streamlit
 spacy
-nltk
 scikit-learn
 PyMuPDF
 python-docx
