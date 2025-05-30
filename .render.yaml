@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: resume-screening-tool
+    env: python
+    buildCommand: "./setup.sh"
+    startCommand: "streamlit run app.py"
+    region: oregon  
