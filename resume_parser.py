@@ -2,7 +2,8 @@ import fitz  # PyMuPDF
 from docx import Document
 import spacy
 
-nlp = spacy.load("en_core_web_sm")
+import en_core_web_sm
+nlp = en_core_web_sm.load()
 
 # 📝 Extract text from PDF or DOCX
 def extract_text(file):
