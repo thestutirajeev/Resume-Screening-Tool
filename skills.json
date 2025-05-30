@@ -1,0 +1,42 @@
+{
+  "Data Analyst": [
+    "python", "sql", "excel", "data visualization", "pandas", "numpy",
+    "tableau", "power bi", "statistics", "data cleaning"
+  ],
+  "Web Developer": [
+    "html", "css", "javascript", "react", "node.js", "express", "mongodb",
+    "git", "api", "bootstrap", "typescript"
+  ],
+  "Machine Learning Engineer": [
+    "python", "tensorflow", "keras", "scikit-learn", "pandas", "numpy",
+    "machine learning", "deep learning", "model deployment", "opencv"
+  ],
+  "Software Engineer": [
+    "java", "c++", "python", "data structures", "algorithms", "oop",
+    "git", "debugging", "unit testing", "software development lifecycle"
+  ],
+  "DevOps Engineer": [
+    "aws", "docker", "kubernetes", "ci/cd", "jenkins", "linux",
+    "bash", "terraform", "ansible", "monitoring"
+  ],
+  "Android Developer": [
+    "java", "kotlin", "android studio", "xml", "firebase", "jetpack",
+    "mvvm", "retrofit", "gradle", "material design"
+  ],
+  "iOS Developer": [
+    "swift", "xcode", "objective-c", "core data", "uikit", "mvvm",
+    "cocoapods", "firebase", "autolayout", "json"
+  ],
+  "UI/UX Designer": [
+    "figma", "adobe xd", "sketch", "user research", "wireframing",
+    "prototyping", "interaction design", "usability testing", "design thinking"
+  ],
+  "Cybersecurity Analyst": [
+    "network security", "penetration testing", "firewalls", "siem", "kali linux",
+    "ethical hacking", "incident response", "wireshark", "nmap", "security auditing"
+  ],
+  "Cloud Engineer": [
+    "aws", "azure", "google cloud", "cloudformation", "terraform",
+    "kubernetes", "docker", "lambda", "cloud security", "devops"
+  ]
+}

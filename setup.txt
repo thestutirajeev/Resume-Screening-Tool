@@ -1,0 +1,7 @@
+python -m venv venv
+venv\Scripts\activate
+
+# Installations 
+pip install streamlit spacy nltk scikit-learn PyMuPDF python-docx
+python -m nltk.downloader all
+python -m spacy download en_core_web_sm
